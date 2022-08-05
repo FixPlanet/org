@@ -19,7 +19,7 @@ We believe:
 #### Application process
 
 1. Complete the typeform application
-2. Reviewed by a selection of the [Project selection commit](./committee.md)
+2. Reviewed by a selection of the [project selection committee](./committee.md)
 3. Select for short interview
 4. Decision
 
