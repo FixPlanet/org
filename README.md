@@ -26,6 +26,13 @@ We believe:
 - Personal impact: Does this open up new opportunities?
 - Follow-up work; what can be built from this?
 - Open-source work?
+- Planned deliverables
+  - Article
+  - Video
+  - Library
+  - Talk
+  - Podcast
+  
 
 #### Application process
 
@@ -46,3 +53,19 @@ We believe:
 2. Informal check-in
 3. Schedule mid-way checking
 4. Schedule endpoint checkin
+5. Capture final project output (at least one blog post? + any other output)
+6. Post-project experience report
+
+## Governance
+
+- UK Charity
+- Leadership team
+  - Decides size of grant
+  - Number of grants issued per year
+  - Governance changes
+   
+- Committee
+  - Votes on projects
+  - Conducts interviews
+
+- Money can be donated by anyone; but doesn't convey any particular rights
