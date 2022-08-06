@@ -74,14 +74,14 @@ We believe:
 
 ## Governance
 
+See also: [constitution](https://github.com/FixPlanet/org/issues/9).
+
 - UK Charity
 - Leadership team
   - Decides size of grant
   - Number of grants issued per year
   - Governance changes
-   
 - Committee
   - Votes on projects
   - Conducts interviews
-
 - Money can be donated by anyone; but doesn't convey any particular rights
