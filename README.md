@@ -65,6 +65,13 @@ We believe:
 - Design a short class covering climate awareness/actions for technologists
 
 
+#### References/releated ideas
+
+- <https://unitary.fund>
+- [Nadia Eghbal - No strings attached grants](https://medium.com/@nayafia/5-000-no-strings-attached-9e7b95d33e50)
+- [Subak](https://subak.org/fellowship)
+
+
 ## Governance
 
 - UK Charity
