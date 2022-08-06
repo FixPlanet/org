@@ -14,7 +14,11 @@ We believe:
 - Anyone should be able to contribute
 - A multitude of different approaches are necessary
 - Exploration and failure will be part of the process
-- Solutions need to be community-led and community-controlled
+- Solutions need to be community-led and community-controlled[^community]
+
+
+[^community]: [^community]: https://designjustice.org/read-the-principles
+
 
 #### Rough selection criteria
 
