@@ -56,6 +56,15 @@ We believe:
 5. Capture final project output (at least one blog post? + any other output)
 6. Post-project experience report
 
+
+#### Example project ideas
+
+- An interactive article exploring some climate topic in detail
+- A data-cleaning project, putting cleaned data into, say, OSM
+- Build a small open-source library for a niche corner of the climate tech ecosystem
+- Design a short class covering climate awareness/actions for technologists
+
+
 ## Governance
 
 - UK Charity
