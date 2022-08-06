@@ -16,6 +16,13 @@ We believe:
 - Exploration and failure will be part of the process
 - Solutions need to be community-led and community-controlled
 
+#### Rough selection criteria
+
+- Community impact: Who else is impacted?
+- Personal impact: Does this open up new opportunities?
+- Follow-up work; what can be built from this?
+- Open-source work?
+
 #### Application process
 
 1. Complete the typeform application
@@ -28,3 +35,10 @@ We believe:
 - 30% upon project acceptance;
 - 40% at halfway mark
 - final 30% upon completion.
+
+#### Process after project acceptance
+
+1. Invite to community
+2. Informal check-in
+3. Schedule mid-way checking
+4. Schedule endpoint checkin
