@@ -63,6 +63,7 @@ We believe:
 - A data-cleaning project, putting cleaned data into, say, OSM
 - Build a small open-source library for a niche corner of the climate tech ecosystem
 - Design a short class covering climate awareness/actions for technologists
+- Something related to climate policy
 
 
 #### References/releated ideas
