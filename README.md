@@ -1,6 +1,6 @@
 # [FixPlanet Club](https://fixplanet.club)
 
-A repository containing all the organisational documents related to FixPlanet Club.
+A repository containing all the organisational documents related to FixPlanet Club. In here you will find all about our mission, our governance, and administration processes.
 
 ## Microgrant Fund
 
