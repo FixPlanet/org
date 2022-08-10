@@ -2,30 +2,39 @@
 
 A repository containing all the organisational documents related to FixPlanet Club. In here you will find all about our mission, our governance, and administration processes.
 
-## Microgrant Fund
+## Mission
+
+Supporting you to find a sustainable fixed point for the planet :)
+
+
+## Microgrant fund
 
 This is a no-strings-attached grant of £1,000 to people working on technical projects addressing with the climate crisis.
 
-#### Operating Theory
+
+#### Operating theory
 
 We believe:
 
-- Change should be made locally
-- Anyone should be able to contribute
-- A multitude of different approaches are necessary
-- Exploration and failure will be part of the process
-- Solutions need to be community-led and community-controlled[^community]
-
+- Change should be made locally,
+- Anyone should be able to contribute,
+- A multitude of different approaches are necessary,
+- Exploration and failure will be part of the process,
+- Solutions need to be community-led and community-controlled[^community].
 
 [^community]: [^community]: https://designjustice.org/read-the-principles
 
 
 #### Rough selection criteria
 
+- The project:
+  - Is it climate tech?
+  - Does it add something new either for the proposer, or the community, or both?
+  - Is it (even plausibly) feasible?
+  - Is it open-source? Why/Why not?
 - Community impact: Who else is impacted?
 - Personal impact: Does this open up new opportunities?
 - Follow-up work; what can be built from this?
-- Open-source work?
 - Planned deliverables
   - Article
   - Video
@@ -41,11 +50,13 @@ We believe:
 3. Select for short interview
 4. Decision
 
+
 #### Payout strategy
 
 - 30% upon project acceptance;
 - 40% at halfway mark
 - final 30% upon completion.
+
 
 #### Process after project acceptance
 
