@@ -1,12 +1,20 @@
+# ~ Variables
+theDate = $(shell date +"%d %B, %Y")
+
+
+# ~ Targets
 all: pdfs ## Make everything
 
 
 pdfs: constitution-doc ## Make all PDFs
 
 
+
 constitution-doc: ## Build the constitution as a PDF
 	@mkdir -p out
-	@pandoc constitution/README.md -o out/constitution.pdf
+	pandoc -V date:"Last Amended: $(theDate)" \
+		constitution/README.md  \
+		-o out/constitution.pdf
 
 
 watch-pdfs: ## Build PDFs upon changes
