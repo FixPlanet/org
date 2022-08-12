@@ -143,3 +143,94 @@ description: |
 
 7.) **Conflicts of interest and conflicts of loyalty**
 
+> A charity trustee must:
+>
+> 1. Declare the nature and extent of any interest, direct or indirect, which
+>    they have in a proposed transaction or arrangement. with the CIO or
+>    in any transaction or arrangement entered into by the CIO which has not
+>    previously been declared; and
+>
+> 2. Absent themselves from any discussions of the charity trustees in which
+>    it is possible that a conflict of interest will arise between their duty
+>    to act soley in the interests of the CIO and any personal interest
+>    (including but not limited to any financial interest.)
+>
+> Any charity trustee abenting themselves from any discussions in accordance
+> with this clause must not vote or be counted as part of the quorum in any
+> decision of the charity trustees on the matter.
+
+8.) **Liability of members to contribute to the assets of the CIO if it is wound up**
+
+> 1. If the CIO is wound up, each member of the CIO is liable to contribute to
+>    the assets of the CIO such amount (but not more than £1) as may be
+>    required for payment of the debts and liabilities of the CIO contracted
+>    before that person ceases to be a mbmer, for payment of the costs,
+>    charges, and expenses of winding up, and for adjustment of the rights
+>    for contributing members among themselves.
+>
+> 2. In sub-clause (1) of this clause "member" includes any person who was a
+>    member of the CIO within 12 months before th commencement of the winding
+>    up.
+>
+> 3. But subject to that, the members of the CIO have no liability to
+>    contribute to its assets if it is wound up, and accordingly have no
+>    personal responsibility for the settlement of its debts and liabilities
+>    beyond the amount that they are liable to contribute.
+
+9.) **Charity trustees**
+
+> 1. **Functions and duties of charity trustees**
+>
+>    The charity trustess shall manage the affairs of the CIO and may for that
+>    purpose exercise all the powers of the CIO. It is the duty of each
+>    charity trustee:
+>
+>    a. To exercise their powers and to perform their functions in their
+>    capacity as a trustee of the CIO in the way they decides in good faith
+>    would be most likely to further the purposes of the CIO; and
+>
+>    b. To exercise, in the performance of those functions, such care and
+>    skill as is reasonable in the circumstances having regard in particular
+>    to:
+>       i. Any special knowledge or experience that they hold themselves out
+>       as having; and,
+>       ii. If he or she acts as a charity trustee of the CIO in the course of
+>       a business or profession, to any special knowledge or experience that
+>       it is reasonable to expect of a person acting in the course of that
+>       kind of business or profession.
+>
+> 2. **Eligibility for trusteeship**
+>
+>    a. Every charity trustee must be a person.
+>    b. No individual may be appointed as a charity trustee of the CIO:
+>       i. If they are under the age of 16 years; or
+>       ii. If they would automatically cease to hold office under the
+>       provisions of clause 12(1)(e).
+>    c. No one is entitled to act as a charity trustee whether on appointment
+>    or on any re-appointment until they have expressly acknowledged, in
+>    whatever way the charity trustee devides, their acceptance of the office
+>    of charity trustee.
+>    d. At least one of the trustees of the CIO must be 18 years of age or
+>    over. If there is no trustee aged at least 18 years, the remaining
+>    trustees may only act to call a meeting of the charity trustees, or
+>    appoint a new charity trustee.
+>
+> 3. **Number of charity trustees**
+>
+>    a. There must be at least three charity trustees. IF the number falls
+>    below this minimum, the remaining trustee or trustees may act only to
+>    call a meeting of the charity trustees, or appoint a new charity trustee.
+>    b. The maximum number of charity trustees is twelve. The charity trustees
+>    may not appoint any charity trustee if as a result the number of charity
+>    trustees would exceed the maximum.
+>
+> 4. **First charity trustees**
+>
+>    The first charity trustees are as follows:
+>
+>     ```{.include shift-heading-level-by=0}
+>     first-trustees.md
+>     ```
+
+10. **Appointment of charity trustees**
+
