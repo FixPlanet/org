@@ -234,3 +234,43 @@ description: |
 
 10. **Appointment of charity trustees**
 
+> 1. Apart from the first charity trustees, every trustee must be appointed by
+>    a resolution passed at a properly convened meeting of the charity
+>    trustees.
+>
+> 2. In selecting individuals for appointment as charity trustees, the charity
+>    trustees must have regard to the skills, knowledge, and experience needed
+>    for the effective administration of the CIO.
+
+11. **Information for new charity trustees**
+
+> The charity trustees will make available to each new charity trustee, on or
+> before their first appointment:
+>
+>   a. A copy of the current version of this constitution; and
+>   b. A copy of the CIO's latest Trustee's Annual Report and statement of
+>   accounts.
+
+12. **Retirement and removal of charity trustees**
+
+> 1. A charity trustee ceases to hold office if they:
+>
+>    a. Retire by notifying the CIO in writing (but only if enough charity
+>    trustees  will remain in office when the notice of resignation takes
+>    effect to form a quorum for meetings);
+>    b. Is absent without the permission of the charity trustees from all
+>    their meetings held within a period if six months and the trustees
+>    resolve that their office will be vacated;
+>    c. Dies;
+>    d. In written opinion, given to the CIO, of a registered medical
+>    practitioner treating that person, has become physically or mentally
+>    incapable of acting as a trustee and may remain so for more than three
+>    months;
+>    e. Is disqualified from acting as a charity trustee by virtue of sections
+>    178-180 of the Charities Act 2011 (or any statutory re-enactment or
+>    modification of that provision).
+>
+> 2. Any person retiring as a charity trustee is eligible for reappointment.
+
+13. **Taking of decisions by charity trustees**
+
