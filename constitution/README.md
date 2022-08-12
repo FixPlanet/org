@@ -37,18 +37,7 @@ title:  "Charitable Incorporated Organisation Constitution for _Fix Planet Club_
 > section 7 of the Charities and Trustee Investment (Scotland) Act 2005 and
 > section 2 of the Charities Act (Northern Ireland) 2008.
 
-4.) **Powers**
 
-> The CIO has power to do anything which is calculated to further its objects
-> or is conducive or incidental to doing so. In particular, the CIO has power
-> to:
->
-> 1. Borrow money and to charge the whole or any part of its property as
->    security for the repayment of the money borrowed. The CIO must comply as
->    appropriate with sections 124 and 125 of the Charities Act 2011, if it
->    wishes to mortgage land;
->
-> 2. Buy, take on lease or in exchange, hire or otherwise acquire any property
->    and to main and equip it for use;
->
-> 3. Sell, lease
+```{.include shift-heading-level-by=0}
+./constitution/boilerplate.md
+```
