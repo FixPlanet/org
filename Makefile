@@ -1,7 +1,6 @@
 # ~ Variables
 theDate = $(shell date +"%d %B, %Y")
 
-
 # ~ Targets
 .PHONY: all $(MAKECMDGOALS)
 
@@ -12,6 +11,7 @@ pdfs: constitution-doc ## Make all PDFs
 constitution-doc: ## Build the constitution as a PDF
 	@mkdir -p out
 	@pandoc \
+		-V geometry:margin=2cm \
 		-V date:"Last Amended: $(theDate)" \
 		--lua-filter ${LUA_FILTERS_DIR}/include-files.lua \
 		-o out/constitution.pdf \
