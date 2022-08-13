@@ -64,7 +64,7 @@ description: |
 >    No charity trustee or connected person may:
 >
 >    a. Buy or receive any goods or services from the CIO on terms
->    preferential to those applicable to members of the public;
+>       preferential to those applicable to members of the public;
 >    b. Sell goods, services, or any interested in land to the CIO;
 >    c. Be employed by, or receive any remuneration from the CIO;
 >    d. Receive any other financial benefit from the CIO;
@@ -78,28 +78,28 @@ description: |
 > 2. **Scope and powers permitting trustees' or connected persons' benefits**
 >
 >    a. A charity trustee or connected person may receive a benefit from the
->    CIO as a beneficiary of the CIO provided that a majority of the trustees
->    do not benefit in this way.
+>       CIO as a beneficiary of the CIO provided that a majority of the trustees
+>       do not benefit in this way.
 >    b. A charity trustee or connected person may enter into a contract for
->    the supply of services, or of goods that are supplied in connection with
->    the provision of services, to the CIO where that is permitted in
->    accordance with, and subject to the conditions in, sections 185 and 188
->    of the Charities Act 2011.
+>       the supply of services, or of goods that are supplied in connection with
+>       the provision of services, to the CIO where that is permitted in
+>       accordance with, and subject to the conditions in, sections 185 and 188
+>       of the Charities Act 2011.
 >    c. Subject to sub-clause (3) of this clause a charity trustuee or
->    connected person may provide the CIO the goods that are not supplied in
->    connection with services provided to the CIO by the charity trustee or
->    connected person.
+>       connected person may provide the CIO the goods that are not supplied in
+>       connection with services provided to the CIO by the charity trustee or
+>       connected person.
 >    d. A charity trustee or connected person may receive interest on money
->    lent to the CIO at a reasonable and proper rate which must not exceed the
->    HMRC Official Rate of Interest for beneficial loans.
+>       lent to the CIO at a reasonable and proper rate which must not exceed the
+>       HMRC Official Rate of Interest for beneficial loans.
 >    e. A charity trustee or connected person may receive rent for premise let
->    by the trustee or connected person to the CIO. The amount of the rent and
->    the other terms of the lease must be reasonable and proper. The charity
->    trustee concerned must withdraw from any meeting at which such a proposal
->    or the rent or other terms of the lease are under discussion.
+>       by the trustee or connected person to the CIO. The amount of the rent and
+>       the other terms of the lease must be reasonable and proper. The charity
+>       trustee concerned must withdraw from any meeting at which such a proposal
+>       or the rent or other terms of the lease are under discussion.
 >    f. A charity trustee or connected person may take part in the normal
->    trading and fundraising activities of the CIO on the same terms as
->    members of the public.
+>       trading and fundraising activities of the CIO on the same terms as
+>       members of the public.
 >
 > 3. **Payment for supply of goods only - controls**
 >
@@ -108,27 +108,27 @@ description: |
 > satisfied:
 >
 >    a. The amount or maximum amount of the payment for the goods is set out
->    in a written agreement between the CIO and the charity trustee or
->    connected person supplying the goods ("the supplier").
+>        in a written agreement between the CIO and the charity trustee or
+>        connected person supplying the goods ("the supplier").
 >    b. The amount or maximum amount of the payment for the goods does not
->    exceed what is reasonable in the circumstances for the supply of the
->    goods in question.
+>        exceed what is reasonable in the circumstances for the supply of the
+>        goods in question.
 >    c. The other charity trustees are satisfied that it is in the best
->    interests of the CIO to contract with the supplier rather than with
->    someone who is not a charity trustee or connected person. In reaching
->    that decision the charity trustees must balance the advantage of
->    contracting with a charity trustee or connected person against the
->    disadvantages of doing so.
+>        interests of the CIO to contract with the supplier rather than with
+>        someone who is not a charity trustee or connected person. In reaching
+>        that decision the charity trustees must balance the advantage of
+>        contracting with a charity trustee or connected person against the
+>        disadvantages of doing so.
 >    d. The supplier is absent from the part of any meeting at which there is
->    discussion of the proposal to enter into a contract or arrangement with
->    her or him or they with regard to the supply of goods to the CIO.
+>        discussion of the proposal to enter into a contract or arrangement with
+>        her or him or they with regard to the supply of goods to the CIO.
 >    e. The supplier does not vote on any such matter and is not to be counted
->    when calculating whether a quorum of charity trustees is present at the
->    meeting.
+>        when calculating whether a quorum of charity trustees is present at the
+>        meeting.
 >    f. The reason for their decision is recorded by the charity trustees in
->    the minute book.
+>       the minute book.
 >    g. A majority of the charity trustees then in office are not in receipt
->    of remuneration or payments authorised by clause 6.
+>       of remuneration or payments authorised by clause 6.
 >
 > 4. **In sub-clauses (2) and (3) of this clause:**
 >
@@ -186,18 +186,18 @@ description: |
 >    charity trustee:
 >
 >    a. To exercise their powers and to perform their functions in their
->    capacity as a trustee of the CIO in the way they decides in good faith
->    would be most likely to further the purposes of the CIO; and
+>       capacity as a trustee of the CIO in the way they decides in good faith
+>       would be most likely to further the purposes of the CIO; and
 >
 >    b. To exercise, in the performance of those functions, such care and
->    skill as is reasonable in the circumstances having regard in particular
->    to:
+>       skill as is reasonable in the circumstances having regard in particular
+>       to:
 >       i. Any special knowledge or experience that they hold themselves out
->       as having; and,
+>          as having; and,
 >       ii. If he or she acts as a charity trustee of the CIO in the course of
->       a business or profession, to any special knowledge or experience that
->       it is reasonable to expect of a person acting in the course of that
->       kind of business or profession.
+>           a business or profession, to any special knowledge or experience that
+>           it is reasonable to expect of a person acting in the course of that
+>           kind of business or profession.
 >
 > 2. **Eligibility for trusteeship**
 >
@@ -207,22 +207,22 @@ description: |
 >       ii. If they would automatically cease to hold office under the
 >       provisions of clause 12(1)(e).
 >    c. No one is entitled to act as a charity trustee whether on appointment
->    or on any re-appointment until they have expressly acknowledged, in
->    whatever way the charity trustee devides, their acceptance of the office
->    of charity trustee.
+>       or on any re-appointment until they have expressly acknowledged, in
+>       whatever way the charity trustee devides, their acceptance of the office
+>       of charity trustee.
 >    d. At least one of the trustees of the CIO must be 18 years of age or
->    over. If there is no trustee aged at least 18 years, the remaining
->    trustees may only act to call a meeting of the charity trustees, or
->    appoint a new charity trustee.
+>       over. If there is no trustee aged at least 18 years, the remaining
+>       trustees may only act to call a meeting of the charity trustees, or
+>       appoint a new charity trustee.
 >
 > 3. **Number of charity trustees**
 >
 >    a. There must be at least three charity trustees. IF the number falls
->    below this minimum, the remaining trustee or trustees may act only to
->    call a meeting of the charity trustees, or appoint a new charity trustee.
+>       below this minimum, the remaining trustee or trustees may act only to
+>       call a meeting of the charity trustees, or appoint a new charity trustee.
 >    b. The maximum number of charity trustees is twelve. The charity trustees
->    may not appoint any charity trustee if as a result the number of charity
->    trustees would exceed the maximum.
+>        may not appoint any charity trustee if as a result the number of charity
+>        trustees would exceed the maximum.
 >
 > 4. **First charity trustees**
 >
@@ -249,28 +249,210 @@ description: |
 >
 >   a. A copy of the current version of this constitution; and
 >   b. A copy of the CIO's latest Trustee's Annual Report and statement of
->   accounts.
+>      accounts.
 
 12. **Retirement and removal of charity trustees**
 
 > 1. A charity trustee ceases to hold office if they:
 >
 >    a. Retire by notifying the CIO in writing (but only if enough charity
->    trustees  will remain in office when the notice of resignation takes
->    effect to form a quorum for meetings);
+>       trustees  will remain in office when the notice of resignation takes
+>       effect to form a quorum for meetings);
 >    b. Is absent without the permission of the charity trustees from all
->    their meetings held within a period if six months and the trustees
->    resolve that their office will be vacated;
+>       their meetings held within a period if six months and the trustees
+>       resolve that their office will be vacated;
 >    c. Dies;
 >    d. In written opinion, given to the CIO, of a registered medical
->    practitioner treating that person, has become physically or mentally
->    incapable of acting as a trustee and may remain so for more than three
->    months;
+>       practitioner treating that person, has become physically or mentally
+>       incapable of acting as a trustee and may remain so for more than three
+>       months;
 >    e. Is disqualified from acting as a charity trustee by virtue of sections
->    178-180 of the Charities Act 2011 (or any statutory re-enactment or
->    modification of that provision).
+>       178-180 of the Charities Act 2011 (or any statutory re-enactment or
+>       modification of that provision).
 >
 > 2. Any person retiring as a charity trustee is eligible for reappointment.
 
 13. **Taking of decisions by charity trustees**
 
+> Any decision may be taken either:
+>
+> 1. At a meeting of the charity trustees; or
+> 2. By resolution in writing (or electronic form) agreed by a majority of all
+>    the charity trustees, which may comprimise either a single document or
+>    several documents containing the text of the resolution in like form to
+>    which the majority of all of the charity trustees has signified their
+>    agreement. Such a resolution shall be effective provided that:
+>    a. A copy of the proposed resolution has been sent, at or as near as
+>       reasonably practicable to the same time, to all of the charity trustees;
+>       and
+>    b. The majority of all the charity trustees has signified agreement to the
+>       resolution in a document or documents which has or have been
+>       authenticated by their signature, by a statement of their identity
+>       accompanying the document or documents, or in such other manner as the
+>       charity trustees have previously resolved, and delivered to the CIO at
+>       its principal office or such other place as the trustees may resolve.
+
+14. **Delegation by charity trustees**
+
+> 1. The charity trustees may delegate any of their powers or functions to a
+>    committee or comittees, and, if they do, they shall determine the terms
+>    and conditions on which the delegation is made. The charity trustees may
+>    at any time alter those terms and conditions, or revoke the delegation.
+>
+> 2. This power is in addition to the power of delegation in the General
+>    Regulations and any other power of delegation available to the charity
+>    trustees, but its subject to the following requirements:
+>
+>    a. A committee may consist of two or more persons, but at least one
+>       member of each committee must be a charity trustee;
+>    b. The acts and proceedings of any committee must be brought to the
+>       attention of the charity trustees as a whole as soon as is reasonably
+>       practicable; and
+>    c. The charity trustees shall from time to time review the arrangements
+>       which they have made for the delegation of their powers.
+
+15. **Meetings of charity trustees**
+
+> 1. **Calling meetings**
+>
+>    a. Any charity trustee may call a meeting of the charity trustees.
+>    b. Subject to that, the charity trustees shall decide how their meetings
+>       are to be called, and what notice is required.
+>
+> 2. **Charing of meetings**
+>
+>    The charity trustees may appoint one of their number to chair their
+>    meetings and may at any time revoke such appointment. If no-one has been
+>    so appointed, or if the person appointed is unwilling to preside or is
+>    not present within 10 minutes after the time of the meeting, the charity
+>    trustees present may appoint one of their number to chair that meeting.
+>
+> 3. **Procedure at meetings**
+>
+>    a. No decision shall be taken at a meeting unless a quorum is present at
+>       the time when the decision is taken. The quorum is two charity
+>       trustees, or the number nearest to one third of the total number of
+>       charity trustees, whichever is greater, or such larger number as the
+>       charity trustees may decide from time to time. A charity trustee shall
+>       not be counted in the quorum present when any decision is made about a
+>       matter upon which they are not entitled to vote.
+>    b. Questions arising at a meeting shall be decided by a majority of those
+>       eligible to vote.
+>    c. In the case of an equality of votes, the person who chairs the meeting
+>       shall have a second or casting vote.
+>
+> 4. **Participation in meetings by electronic means**
+>
+>    a. A meeting may be held by suitable electronic means agreed by the
+>       charity trustees in which each participant may communicate with all
+>       the other participants.
+>    b. Any charity trustee participating at a meeting by suitable electronics
+>       means agrred by the charity trustees in which a participant or
+>       participants may communicate with all the other participants shall
+>       qualify as being present at the meeting.
+>    c. Meetings held by electronic means must comply with rules for meetings,
+>       including chairing and the taking of minutes.
+
+```{.include shift-heading-level-by=0}
+cio-membership.md
+```
+
+17. **Informal or associate (non-voting) membership**
+
+> 1. The charity trustees may create associate or other classes of non-voting
+>    membership, and may determine the rights and obligations of any such
+>    members (including payment of membership fees), and the conditions for
+>    admission to, and termination of membership of any such class of members.
+>
+> 2. Other references in this constitution to "members" and "membership" do
+>    not apply to non-voting members, and non-voting members do not qualify as
+>    members for any purpose under the Charities Acts, General Regulations or
+>    Dissolution Regulations.
+
+18. **Decisions which  must be made by the members of the CIO**
+
+> 1. Any decision to:
+>
+>    a. Amend the constitution of the CIO; or
+>    b. Amalgamate the CIO with, or transfer its undertaking to, one or more
+>       other CIO's in accordance with the Charities Act 2011; or
+>    c. Wind up or dissolve the CIO (including transferring its business to
+>       any other charity)
+>
+>    must be made by a resolution of the members of the CIO (rather than a
+>    resolution of the charity trustees).
+>
+> 2. Decisions of the members may be made either:
+>
+>    a. By resolution at a general meeting; or
+>    b. By resolution in writing, in accordance with sub-clause (4) of this
+>       clause.
+>
+> 3. Any decisions specified in sub-clause (1) of this clause must be made in
+>    accordance with the provisions of clause 28 (amendment of constitution),
+>    clause 29 (Voluntary winding up or dissolution), or the provisions of the
+>    Charities Act 2011, the General Regulations or the Dissolution
+>    Regulations as applicable. Those provisions require the resolution to be
+>    agreed by a 75% majority of those members voting at a general meeting, or
+>    agreed by all members in writing.
+>
+> 4. Except where a resolution in writing must be agreed by all the members,
+>    such a resolution may be agreed by a simple majority of all the members
+>    who are entitled to vote on it. Such a resolution shall be effective
+>    provided that:
+>
+>    a. A copy of the proposed resolution has been sent to all the members
+>       eligible to vote; and
+>    b. The required majority of members has signified its agreement to the
+>       resolution in a document or documents which are received at the
+>       principal office within the period of 28 days beginning with the
+>       circulation date. The document signifying a member's agreement must be
+>       authenticated by their signature, by a statement of their identity
+>       accompanying the document, or in such other manner as the CIO has
+>       specified.
+>
+> The resolution in writing may comprise several copies to which one or more
+> members has signified their agreement. Eligibility to vote on the resolution
+> is limited to members who are members of the CIO on the date when the
+> proposal is first circulated.
+
+19. **General meetings of members**
+
+20. **Saving provisions**
+
+21. **Execution of documents**
+
+22. **Use of electronic communications**
+
+23. **Keeping of Registers**
+
+> The CIO must comply with its obligations under the General Regulations in
+> relation to the keeping of, and provision of access to, a register of its
+> members and charity trustees.
+
+24. **Minutes**
+
+25. **Accounting records, accounts, annual reports and returns, register maintenance**
+
+26. **Rules**
+
+> The charity trustees may from time to time make such reasonable and proper
+> rules or by-laws as they may deem necessary or expedient for the proper
+> conduct and management of the CIO, but such rules or by-laws must not be
+> inconsistent with any provision of this consitution. Copies of any such
+> rules or by-laws currently in force must be made available to any member of
+> the CIO on request.
+
+27. **Disputes**
+
+> If a dispute arises between members of the CIO about the validity or
+> propriety of anything done by the members under this constitution, and the
+> dispute cannot be resolved by agreement, the parties to the dispute must
+> first try in good faith to settle the dispure my mediation before resorting
+> to litigation.
+
+28. **Amendment of constitution**
+
+29. **Voluntary winding up or dissolution**
+
+30. **Interpretation**
