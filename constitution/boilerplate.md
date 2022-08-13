@@ -418,9 +418,71 @@ cio-membership.md
 
 19. **General meetings of members**
 
+> 1. **Calling of general meetings of members**
+>
+> The charity trustees may designate any of their meetings as a general
+> meeting of the members of the CIO. The purpose of such a meeting is to
+> discharge any business which must by law be discharged by a resolution of
+> the members of the CIO as specified in clause 18 (Decisions which must be
+> made by the members of the CIO).
+>
+> 2. **Notice of general meetings of members**
+>
+>    a. The minimum period of notice required to hold a general meeting of the
+>       members of the CIO is 14 days.
+>    b. Except where a specified period of notice is strictly required by
+>       another clause in this constitution, by the Charities Act 2011 or by
+>       the General Regulations, a general meeting may be called by shorter
+>       notice if it is so agreed by a majority of the members of the CIO.
+>    c. Proof that an eletronic form of notice was properly addressed and
+>       sent, shall be conclusive evidence that the notice was given. Notice
+>       shall be deemed to be given 48 hours after it was posted or sent.
+>
+> 3. **Procedure at general meetings of members**
+>
+> The provisions in clause 15 (2)-(4) governing the chairing of meetings,
+> procedure at meetings and participation in meetings by electronic means
+> apply to any general meeting of the members, with all references to
+> trustees to be taken as references to members.
+
 20. **Saving provisions**
 
+> 1. Subject to sub-clause (2) of this clause, all decisions of the charity
+>    trustees, or of a committee or charity trustees, shall be valid
+>    notwithstanding the participation in any vote of a charity trustee:
+>
+>    a. Who was disqualified from holding office;
+>    b. Who had previously retired or who had been obliged by the constitution
+>       to vacate office;
+>    c. Who was not entitled to vote on the matter, whether by reason of a
+>       conflict of interest or otherwise;
+>
+>    if, without the vote of that charity trustee and that charity trustee
+>    being counted in the quorum, the decisions has been made by a majority of
+>    the charity trustees at a quorate meeting.
+>
+> 2. Sub-clause (1) of this clause does not permit a charity trustee to keep
+>    any benefit that may be conferred upon them by a resolution of the
+>    charity trustees or of a committee of charity trustees if, but for
+>    sub-clause (1), the resolution would have been void, or if the charity
+>    trustee has not compiled with clause 7 (Conflicts of interest).
+
 21. **Execution of documents**
+
+> 1. The CIO shall execute documents either by signature or by affixing its
+>    seal (if it has one)
+>
+> 2. A document is validly executed by signature if it is signed by at least
+>    two of the charity trustees.
+>
+> 3. If the CIO has a seal:
+>
+>    a. It must comply with the provisions of the General Regulations; and
+>    b. The seal must only be used by the authority of the charity trustees or
+>       of a committee of charity trustees duly authorised by the charity
+>       trustees. The charity trustees may determined who shall sign any
+>       document to which the seal is affixed and unless otherwise so
+>       determined it shall be signed by two charity trustees.
 
 22. **Use of electronic communications**
 
