@@ -486,6 +486,49 @@ cio-membership.md
 
 22. **Use of electronic communications**
 
+> 1. **General**
+>
+>    The CIO will comply with the requirements of the Communications Provisions
+>    in the General Regulations and in particular:
+>
+>    a. The requirement to provide within 21 days to any member on request a hard
+>       cop of any document or information sent to the member otherwise than in hard
+>       copy form;
+>    b. Any requirements to provide information to the Commission in a
+>       particular form or manner.
+>
+> 2. **To the CIO**
+>
+>    Any member or charity trustee of the CIO may communicate electronically
+>    with the CIO to an address specified by the CIO for the purpose, so long
+>    as the communication is authenticated in a manner which is satisfactory
+>    to the CIO.
+>
+> 3. **By the CIO**
+>
+>    a. Any member or charity trustee of the CIO, by providing the CIO with
+>       their email address or similar, is taken to have agreed to receive
+>       communications from the CIO in electronnic form at that address, unless
+>       the member has indicated to the CIO their unwillingness to receive such
+>       communications in that form;
+>    b. The charity trustees may, subject to compliance with any legal
+>       requirements, by means of publication on its website:
+>       i. Provide the members with the notice referred to in clause 19(2)
+>          (Notice of general meetings); and
+>       ii. Give charity trustees notice of their meetings in accordance with
+>           clause 15(1) (Calling meetings); and
+>       iii. Submit any proposal to the members or charity trustees for
+>            decision by written resolution in accordance with the CIO's
+>            powers under clause 18 (Members' decisions) or 18(4) (Decisions
+>            taken by resolution in writing).
+>    c. The charity trustees must:
+>       i. Take reasonable steps to ensure that members and charity trustees
+>           are promptly notified of the publication of any such notice or
+>           proposal; and
+>       ii. Send any such notice or proposal in hard copy form to any member
+>           or charity trustee who has not consented to receive communications in
+>           electronic form.
+
 23. **Keeping of Registers**
 
 > The CIO must comply with its obligations under the General Regulations in
@@ -494,7 +537,22 @@ cio-membership.md
 
 24. **Minutes**
 
+```{.include shift-heading-level-by=0}
+minutes.md
+```
+
 25. **Accounting records, accounts, annual reports and returns, register maintenance**
+
+> 1. The charity trustees must comply with the requirements of the Charities
+>    Act 2011 with regard to the keeping of accounting records, to the
+>    prearation and scrutiny of statements of account, and to the preparation
+>    of annual reports and returns. The statements of account, reports, and
+>    returns must be sent to the Charity Commission, regardless of the income
+>    of the CIO, within 10 months of the financial year end.
+>
+> 2. The charity trustees must comply with their obligation to inform the
+>    Commission within 28 days of any change in the particulars of the CIO
+>    entered on the Central Register of Charities.
 
 26. **Rules**
 
@@ -515,6 +573,114 @@ cio-membership.md
 
 28. **Amendment of constitution**
 
+> As provided by sections 224-227  of the Charities Act 2011:
+>
+> 1. This constitution can only be amended:
+>
+>    a. By resolution agreed in writing by all members of the CIO; or
+>    b. By a resolution passed by a 75% majority of those voting at a general
+>       meeting of the members of the CIO called in accordance with caluse 19
+>       (General meetings of members).
+>
+> 2. Any alteration of clause 3 (Objects), clause 29 (Voluntary winding up or
+>    dissolution), this clause, or of any provision where the alteration would
+>    provide authorisation for any benefit to be obtained by charity trustees
+>    or members of the CIO or person connected with them, requires the prior
+>    written consent of the Charity Commission.
+>
+> 3. No amendment that is inconsistent with the provisions of the Charities
+>    Act 2011 or the General Regulations shall be valid.
+>
+> 4. A copy of every resolution amending the constitution, together with a
+>    copy of the CIO's constitution as amended must be sent to the Comission
+>    by the end of the period of 15 days beginning with the date of passing of
+>    the, and the amendment does not take effect until it has been recorded in
+>    the Register of Charities.
+
 29. **Voluntary winding up or dissolution**
 
+> 1. As provided by Dissolution Regulations, the CIO may be dissolved by
+>    resolution of its members. Any decisions by the members to wind up or
+>    dissolve the CIO can only be made:
+>
+>    a. At a general meeting of the members of the CIO called in accordance
+>       with clause 19 (General meetings of members), of which not less than 14
+>       days notice has been given to those eligible to attend and vote:
+>       i. By a resolution passed by a 75% majority of those voting; or
+>       ii. By a resolution passed by decision taken without a vote and
+>           without any expression of dissent in response to the question put to
+>           the general meeting; or
+>    b. By a resolution agreed in writing by all members of the CIO.
+>
+> 2. Subject to the payment of all the CIO's debts:
+>
+>    a. Any resolution for the winding up of the CIO, or for dissolution of
+>       the CIO without winding up, may contain a provision directing how any
+>       remaining assets of the CIO shall be applied.
+>    b. If the resolution does not contain such a provision, the charity
+>       trustees must decide how any remaining assets of the CIO shall be
+>       applied.
+>    c. In either case the remaining assets must be applied for charitable
+>       purposes the same as or similar to those of the CIO.
+>
+> 3. The CIO must observe the requirements of the Dissolution Regulations in
+>    applying to the Commission for the CIO to be removed from the Register of
+>    Charities, and in particular:
+>
+>    a. The charity trustees must send with their application to the
+>       Commission:
+>       i. A copy of the resolution passed by the members of the CIO; and
+>       ii. A declaration by the charity Trustees that any debts and other
+>        liabilities of the CIO have been settled or otherwise provided for in
+>        full; and
+>       iii. The charity trustees must ensure that a copy of the application
+>        is sent within seven days to every member and employee of the
+>        CIO, and to any charity trustee of the CIO who was not privy to
+>        the application.
+>
+> 4. The charity trustees must ensure that a copy of the application is sent
+>    within seven days to every member and employee of the CIO, and to any
+>    charity trustee of the CIO who was not privy to the application.
+>
+> 5. If the CIO is to be wound up or dissolved in any other circumstances, the
+>    provisions of the Dissolution Regulations must be followed.
+
 30. **Interpretation**
+
+> In this constituion:
+>
+> "**connected person**" means:
+>
+> 1. A child, parent, grandchild, grandparent, brother or sister of the
+>    charity trustee;
+> 2. The spouse or civil partner of the charity trustee or of any person
+>    falling within sub-clause (a) above;
+> 3. A person carrying on business in partnership with the charity trustee or
+>    with any person falling within sub-clause (1) or (2) above;
+> 4. An institution which is controlled &mdash;
+>    a. by the charity trustee or any connected person falling within
+>       sub-clause (1) to (3) above; or
+>    b. by two or more persons falling within sub-clause (4)(a), when taken
+>       together.
+> 5. A body corporate in which &mdash;
+>    a. the charity trustee or any connected person falling within sub-clauses
+>       (1) to (3) has a substantial interest; or
+>    b. two or more persons falling within sub-clause (5)(a) who, when taken
+>       together, have a substantial interest.
+>
+> Section 118 of the Charities Act 2011 applies for the purposes of
+> interpreting the terms used in this constitution.
+>
+> "**General Regulations**" means the Charitable Incorporated Organisations
+> (General) Regulations 2021.
+>
+> "**Dissolution Regulations**" means the Charitable Incorporated
+> Organisations (Insolvency and Dissolution) Regulations 2012.
+>
+> The "**Communications Provisions**" means the Communications Provisions in
+> Part 9, Chapter 4 of the General Regulations.
+>
+> "**charity trustee**" means a charity trustee of the CIO.
+>
+> A "**poll**" means a counted vote or ballot, usually (but not necessarily)
+> in writing.
