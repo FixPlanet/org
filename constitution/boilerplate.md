@@ -44,7 +44,7 @@ description: |
 >
 >    a. A charity trustee is entitled to be reimbursed from the property of
 >    the CIO or may pay out of such property reasonable expenses incurred by
->    her or him when acting on behalf of the CIO.
+>    them when acting on behalf of the CIO.
 >    b. A charity trustee may benefit from trustee indemnity insurance cover
 >    purchased at the CIO's expense in accordance with, and subject to the
 >    conditions in, section 189 of the Charities Act 2011.
@@ -121,7 +121,7 @@ description: |
 >        disadvantages of doing so.
 >    d. The supplier is absent from the part of any meeting at which there is
 >        discussion of the proposal to enter into a contract or arrangement with
->        her or him or they with regard to the supply of goods to the CIO.
+>        them with regard to the supply of goods to the CIO.
 >    e. The supplier does not vote on any such matter and is not to be counted
 >        when calculating whether a quorum of charity trustees is present at the
 >        meeting.
