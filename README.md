@@ -54,8 +54,8 @@ We believe:
 #### Payout strategy
 
 - 40% upon project acceptance;
-- 30% at halfway mark
-- final 30% upon completion.
+- 30% at halfway mark and successful informal check-in
+- final 30% upon final milestone delivery.
 
 
 #### Process after project acceptance
