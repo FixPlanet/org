@@ -9,7 +9,7 @@ Supporting you to find a sustainable fixed point for the planet :)
 
 ## Microgrant fund
 
-This is a no-strings-attached grant of £1,000 to people working on technical projects addressing with the climate crisis.
+This is a no-strings-attached grant of £1,000 to people working on technical projects addressing the climate crisis.
 
 
 #### Operating theory
@@ -41,7 +41,7 @@ We believe:
   - Library
   - Talk
   - Podcast
-  
+
 
 #### Application process
 
@@ -62,8 +62,8 @@ We believe:
 
 1. Invite to community
 2. Informal check-in
-3. Schedule mid-way checking
-4. Schedule endpoint checkin
+3. Schedule mid-way check-in
+4. Schedule endpoint check-in
 5. Capture final project output (at least one blog post? + any other output)
 6. Post-project experience report
 
@@ -90,10 +90,10 @@ See also: [constitution](https://github.com/FixPlanet/org/issues/9).
 
 - UK Charity
 - Leadership team
-  - Decides size of grant
-  - Number of grants issued per year
-  - Governance changes
+  - Decides size of grants
+  - Decides number of grants issued per year
+  - Implements governance changes
 - Committee
   - Votes on projects
   - Conducts interviews
-- Money can be donated by anyone; but doesn't convey any particular rights
+- Money can be donated by anyone but doesn't convey any particular rights
