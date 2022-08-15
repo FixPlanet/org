@@ -232,7 +232,7 @@ description: |
 >     first-trustees.md
 >     ```
 
-10. **Appointment of charity trustees**
+10.) **Appointment of charity trustees**
 
 > 1. Apart from the first charity trustees, every trustee must be appointed by
 >    a resolution passed at a properly convened meeting of the charity
@@ -242,7 +242,7 @@ description: |
 >    trustees must have regard to the skills, knowledge, and experience needed
 >    for the effective administration of the CIO.
 
-11. **Information for new charity trustees**
+11.) **Information for new charity trustees**
 
 > The charity trustees will make available to each new charity trustee, on or
 > before their first appointment:
@@ -251,7 +251,7 @@ description: |
 >   b. A copy of the CIO's latest Trustee's Annual Report and statement of
 >      accounts.
 
-12. **Retirement and removal of charity trustees**
+12.) **Retirement and removal of charity trustees**
 
 > 1. A charity trustee ceases to hold office if they:
 >
@@ -272,7 +272,7 @@ description: |
 >
 > 2. Any person retiring as a charity trustee is eligible for reappointment.
 
-13. **Taking of decisions by charity trustees**
+13.) **Taking of decisions by charity trustees**
 
 > Any decision may be taken either:
 >
@@ -292,7 +292,7 @@ description: |
 >       charity trustees have previously resolved, and delivered to the CIO at
 >       its principal office or such other place as the trustees may resolve.
 
-14. **Delegation by charity trustees**
+14.) **Delegation by charity trustees**
 
 > 1. The charity trustees may delegate any of their powers or functions to a
 >    committee or comittees, and, if they do, they shall determine the terms
@@ -311,7 +311,7 @@ description: |
 >    c. The charity trustees shall from time to time review the arrangements
 >       which they have made for the delegation of their powers.
 
-15. **Meetings of charity trustees**
+15.) **Meetings of charity trustees**
 
 > 1. **Calling meetings**
 >
@@ -357,7 +357,7 @@ description: |
 cio-membership.md
 ```
 
-17. **Informal or associate (non-voting) membership**
+17.) **Informal or associate (non-voting) membership**
 
 > 1. The charity trustees may create associate or other classes of non-voting
 >    membership, and may determine the rights and obligations of any such
@@ -369,7 +369,7 @@ cio-membership.md
 >    members for any purpose under the Charities Acts, General Regulations or
 >    Dissolution Regulations.
 
-18. **Decisions which  must be made by the members of the CIO**
+18.) **Decisions which  must be made by the members of the CIO**
 
 > 1. Any decision to:
 >
@@ -416,7 +416,7 @@ cio-membership.md
 > is limited to members who are members of the CIO on the date when the
 > proposal is first circulated.
 
-19. **General meetings of members**
+19.) **General meetings of members**
 
 > 1. **Calling of general meetings of members**
 >
@@ -445,7 +445,7 @@ cio-membership.md
 > apply to any general meeting of the members, with all references to
 > trustees to be taken as references to members.
 
-20. **Saving provisions**
+20.) **Saving provisions**
 
 > 1. Subject to sub-clause (2) of this clause, all decisions of the charity
 >    trustees, or of a committee or charity trustees, shall be valid
@@ -467,7 +467,7 @@ cio-membership.md
 >    sub-clause (1), the resolution would have been void, or if the charity
 >    trustee has not compiled with clause 7 (Conflicts of interest).
 
-21. **Execution of documents**
+21.) **Execution of documents**
 
 > 1. The CIO shall execute documents either by signature or by affixing its
 >    seal (if it has one)
@@ -484,7 +484,7 @@ cio-membership.md
 >       document to which the seal is affixed and unless otherwise so
 >       determined it shall be signed by two charity trustees.
 
-22. **Use of electronic communications**
+22.) **Use of electronic communications**
 
 > 1. **General**
 >
@@ -492,7 +492,7 @@ cio-membership.md
 >    in the General Regulations and in particular:
 >
 >    a. The requirement to provide within 21 days to any member on request a hard
->       cop of any document or information sent to the member otherwise than in hard
+>       copy of any document or information sent to the member otherwise than in hard
 >       copy form;
 >    b. Any requirements to provide information to the Commission in a
 >       particular form or manner.
@@ -529,19 +529,19 @@ cio-membership.md
 >           or charity trustee who has not consented to receive communications in
 >           electronic form.
 
-23. **Keeping of Registers**
+23.) **Keeping of registers**
 
 > The CIO must comply with its obligations under the General Regulations in
 > relation to the keeping of, and provision of access to, a register of its
 > members and charity trustees.
 
-24. **Minutes**
+24.) **Minutes**
 
 ```{.include shift-heading-level-by=0}
 minutes.md
 ```
 
-25. **Accounting records, accounts, annual reports and returns, register maintenance**
+25.) **Accounting records, accounts, annual reports and returns, register maintenance**
 
 > 1. The charity trustees must comply with the requirements of the Charities
 >    Act 2011 with regard to the keeping of accounting records, to the
@@ -554,7 +554,7 @@ minutes.md
 >    Commission within 28 days of any change in the particulars of the CIO
 >    entered on the Central Register of Charities.
 
-26. **Rules**
+26.) **Rules**
 
 > The charity trustees may from time to time make such reasonable and proper
 > rules or by-laws as they may deem necessary or expedient for the proper
@@ -563,7 +563,7 @@ minutes.md
 > rules or by-laws currently in force must be made available to any member of
 > the CIO on request.
 
-27. **Disputes**
+27.) **Disputes**
 
 > If a dispute arises between members of the CIO about the validity or
 > propriety of anything done by the members under this constitution, and the
@@ -571,7 +571,7 @@ minutes.md
 > first try in good faith to settle the dispure my mediation before resorting
 > to litigation.
 
-28. **Amendment of constitution**
+28.) **Amendment of constitution**
 
 > As provided by sections 224-227  of the Charities Act 2011:
 >
@@ -597,7 +597,7 @@ minutes.md
 >    the, and the amendment does not take effect until it has been recorded in
 >    the Register of Charities.
 
-29. **Voluntary winding up or dissolution**
+29.) **Voluntary winding up or dissolution**
 
 > 1. As provided by Dissolution Regulations, the CIO may be dissolved by
 >    resolution of its members. Any decisions by the members to wind up or
@@ -645,7 +645,7 @@ minutes.md
 > 5. If the CIO is to be wound up or dissolved in any other circumstances, the
 >    provisions of the Dissolution Regulations must be followed.
 
-30. **Interpretation**
+30.) **Interpretation**
 
 > In this constituion:
 >
