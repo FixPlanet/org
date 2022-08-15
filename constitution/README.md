@@ -21,7 +21,7 @@ title:  "Charitable Incorporated Organisation Constitution for _Fix Planet Club_
 > 1. For the public benefit, build and support a community around sustainable
 >    climate technology projects, both individual and commercial; and
 >
-> 2. For the public benefit, fund and distribute a no-strings attached grant
+> 2. For the public benefit, fund and distribute a no-strings-attached grant
 >    to individuals working on a project related to climate technology that
 >    addresses at least one of the following criteria:
 >

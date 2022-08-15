@@ -4,7 +4,7 @@ comment: |
   but it could be reconsidered another time.
 ---
 
-16. **Membership of the CIO**
+16.) **Membership of the CIO**
 
 > 1. The members of the CIO shall be its charity trustees for the time being.
 >    The only persons eligible to be members of the CIO are its charity
