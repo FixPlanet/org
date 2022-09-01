@@ -5,7 +5,7 @@ active:    true
 imageName: gala.jpg
 ---
 
-Gala is a Data Scientist at [Diagonal](https://diagonal.works/), and  is a
+Gala is a Data Scientist at [Diagonal](https://diagonal.works/), a
 mathematician and programmer, with a background in education, optimisation and
 all-things data. She has worked at big corporates and startups within the
 civil infrastructure and urban planning ecosystem, leading analytics projects
