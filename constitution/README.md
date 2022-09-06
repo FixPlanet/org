@@ -22,15 +22,17 @@ title:  "Charitable Incorporated Organisation Constitution for _Fix Planet Club_
 >    climate technology projects, both individual and commercial; and
 >
 > 2. For the public benefit, fund and distribute a no-strings-attached grant
->    to individuals working on a project related to climate technology that
->    addresses at least one of the following criteria:
+>    to individuals working on a project related to climate technology that:
 >
->     a. Is innovative in the industry, or
->     b. Provides value to the local community, or
->     c. Addresses marginalised communities, or
->     d. Provides value to the individual themselves, or
->     e. Otherwise builds out the general capability for other people and
->     organisations to do valuable climate work in the public interest.
+>    a. Advances the ecosystem of climate technology,
+>
+>    and addresses at least one of the following additional criteria:
+>
+>    b. Provides value or support to the local community, or
+>    c. Addresses, includes, and supports marginalised communities, or
+>    d. Provides a learning or growth opportunity to the individual themselves, or
+>    e. Otherwise builds out the general capability for other people and
+>    organisations to do valuable climate work in the public interest.
 >
 > Nothing in this constitution shall authorise an application of the property
 > of the CIO for the purposes which are not charitable in accordance with
@@ -41,4 +43,3 @@ title:  "Charitable Incorporated Organisation Constitution for _Fix Planet Club_
 ```{.include shift-heading-level-by=0}
 ./constitution/boilerplate.md
 ```
-
