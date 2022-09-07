@@ -1,6 +1,7 @@
 ---
 active:    true
 cofounder: true
+trustee:   true
 imageName: marco.jpg
 link:      "https://marcosh.github.io/"
 name:      Marco Perone
