@@ -1,6 +1,7 @@
 ---
 active:    true
 cofounder: true
+trustee:   true
 imageName: noon.png
 link:      "https://www.linkedin.com/in/noonsilk/"
 name:      Noon van der Silk

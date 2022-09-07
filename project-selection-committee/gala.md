@@ -1,6 +1,7 @@
 ---
 active:    true
 cofounder: true
+trustee:   true
 imageName: gala.jpg
 link:      "https://www.linkedin.com/in/galacamacho/"
 name:      Gala Camacho Ferrari
