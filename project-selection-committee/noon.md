@@ -1,8 +1,9 @@
 ---
-name:      Noon van der Silk
-link:      "https://www.linkedin.com/in/noonsilk/"
 active:    true
+cofounder: true
 imageName: noon.png
+link:      "https://www.linkedin.com/in/noonsilk/"
+name:      Noon van der Silk
 ---
 
 Noon is a programmer, originally from Melbourne, Australia but now living in
