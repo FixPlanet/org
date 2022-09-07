@@ -1,8 +1,9 @@
 ---
-name:      Marco Perone
-link:      "http://marcosh.github.io/"
 active:    true
+cofounder: true
 imageName: marco.jpg
+link:      "http://marcosh.github.io/"
+name:      Marco Perone
 ---
 
 Marco is a software developer from Italy, passionate about functional
