@@ -16,10 +16,10 @@ Harassment includes, but is not limited to:
 - Offensive comments related to gender, gender identity and expression, sexual
   orientation, disability, mental illness, neuro(a)typicality, physical
   appearance, body size, age, race, or religion or belief.
-- Unwelcome comments regarding a person’s lifestyle choices and practices,
+- Unwelcome comments regarding a person's lifestyle choices and practices,
   including those related to food, health, marriage, parenting, drugs, and
   employment.
-- Deliberate misgendering or use of ‘dead’ or rejected names.
+- Deliberate misgendering or use of 'dead' or rejected names.
 - Sharing/using NSFW/sexual images, language or behaviour in any spaces.
 - Physical contact and simulated physical contact (eg, textual descriptions
     like "*hug*" or "*backrub*") without consent or after a request to stop.
