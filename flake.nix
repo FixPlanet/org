@@ -18,7 +18,11 @@
         pkgs = import nixpkgs { inherit system; };
     in rec {
       devShell = pkgs.mkShell {
-        buildInputs = [ pkgs.pandoc pkgs.pandoc-lua-filters ];
+        buildInputs = [
+          pkgs.fswatch
+          pkgs.pandoc
+          pkgs.pandoc-lua-filters
+        ];
         shellHook   = ''
           # Fix the location of the lua filters, so we can refer to it explicitly.
           export LUA_FILTERS_DIR=${pkgs.pandoc-lua-filters}/share/pandoc/filters
