@@ -21,7 +21,8 @@ finalise-constitution: constitution-doc ## Copy the compiled PDF to the main fol
 	cp out/constitution.pdf constitution/
 
 watch-pdfs: ## Build PDFs upon changes
-	@commando -c echo constitution | grep --line-buffered Modified | conscript make pdfs
+	@fswatch --event Updated -o ./constitution/ | xargs -I{} make pdfs
+	# @commando -c echo constitution | grep --line-buffered Modified | conscript make pdfs
 
 help: ## List all available targets
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
