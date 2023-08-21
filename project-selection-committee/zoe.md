@@ -1,6 +1,6 @@
 ---
 active:    true
-imageName: zoe.png
+imageName: zoe.webp
 link:      "https://www.linkedin.com/in/zoeytlaw/"
 name:      Zoe Yu Tung Law
 ---

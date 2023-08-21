@@ -2,7 +2,7 @@
 active:    true
 cofounder: true
 trustee:   true
-imageName: noon.png
+imageName: noon.webp
 link:      "https://www.linkedin.com/in/noonsilk/"
 name:      Noon van der Silk
 ---

@@ -1,6 +1,6 @@
 ---
 active:    true
-imageName: rosie.jpg
+imageName: rosie.webp
 link:      "https://www.linkedin.com/in/rosieawright/"
 name:      Rosie Wright
 ---

@@ -2,7 +2,7 @@
 active:    true
 cofounder: true
 trustee:   true
-imageName: marco.jpg
+imageName: marco.webp
 link:      "https://marcosh.github.io/"
 name:      Marco Perone
 ---
