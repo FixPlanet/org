@@ -6,4 +6,3 @@ You can find our rendered constitution here:
 
 The Markdown files linked from the primary one, `constitution.md` are used to
 prepare this PDF.
-

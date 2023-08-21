@@ -4,7 +4,7 @@ A repository containing all the organisational documents related to Fix Planet C
 
 ## Mission
 
-Supporting you to find a sustainable fixed point for the planet :)
+Working together to find a sustainable fixed point for the planet :)
 
 
 ## Microgrant fund
