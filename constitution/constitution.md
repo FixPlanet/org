@@ -19,7 +19,7 @@ author: SVCO Model SCIO Constitution (single-tier)
 | Miscellaneous | winding up, alterations to the constitution, interpretation | 109-114
 
 
-# GENERAL
+# General
 
 ## Type of Organisation
 
@@ -100,7 +100,7 @@ author: SVCO Model SCIO Constitution (single-tier)
     charity trustees in their capacity as members of the organisation.
 
 
-# BOARD
+# Board
 
 ## Number of charity trustees
 
@@ -518,6 +518,8 @@ interest in that matter.
     that matter (unless they have a different personal interest in that
     matter, unrelated to their position as a director of that subsidiary).
 
+## Technical objections to remote participation in board meetings
+
 66. This constitution imposes certain requirements regarding the use of audio
     and/or audio-visual links as a means of participation and voting at board
     meetings; providing the arrangements made by the board in relation to a
@@ -546,6 +548,126 @@ a resolution is passed.
 
 
 ## Board resolutions agreed in writing or by email
+
+67. A resolution agree to in writing (or by email) by a majority of the
+    charity trustees then in office shall (subject to clause 68 and 69) be as
+    valid as if duly passed at a board meeting.
+
+68. A resolution under clause 67 shall not be valid unless a copy of the
+    resolution was circulated to all of the charity trustees, along with a
+    cut-off time (which must be reasonable in the circumstances) for
+    notifications under clause 69.
+
+69. If a resolution is circulated to the charity trustees under clause 68, any
+    one or more charity trustees may, following receipt of a copy of the
+    resolution, notify the secretary that they consider that a board meeting
+    should be held to discuss the matter which is the subject of the
+    resolution; and if any such notification is received by the secretary
+    prior to the cut-off time:
+
+a. the secretary must convene a board meeting accordingly, and on the basis
+that it will take place as soon as reasonably possible;
+
+b. the resolution cannot be treated as valid under clause 67 unless and until
+that board meeting has taken place;
+
+c. the board may (if they consider appropriate, on the basis of the
+discussions at the meeting) resolve at that board meeting that the
+resolution should be treated as invalid, notwithstanding that it had
+previously been agreed to in writing (or by email) by a majority of the
+charity trustees then in office.
+
+
+## Minutes of board meetings
+
+70. The board must ensure that proper minutes are kept in relation to all
+    board meetings and meetings of sub-committees; and that a proper record is
+    kept of all resolutions agreed to in writing or by email under clause 67.
+
+71. The minutes to be kept under clause 70 must include the names of those
+    present; and (so far as possible) should be signed by the chairperson of
+    the meeting.
+
+72. The records of resolutions kept under clause 70 must include the names of
+    those charity trustees who agreed to the resolution (as well as the names
+    of any charity trustees who stated that they disagreed with the
+    resolution); and should be signed by the chair of the
+    organisation.
+
+
+# Decision-making by the charity trustees - in their capacity as members
+
+75. For certain purposes of the Scottish Charities Act, the charity trustees
+    make decisions in their capacity as members of the organisation, rather
+    than as a board; the provisions of clauses 76 to 100 relate to those
+    situations.
+
+## Annual general meetings
+
+
+76. The board must convene a meeting of the charity trustees - in their
+    capacity as members of the organisation - in each calendar year; that
+    meeting will be called an annual general meeting or "AGM".
+
+77. The gap between one AGM and the next must not be longer than 15 months.
+
+78. Notwithstanding clause 76, an AGM does not need to be held during the
+    calendar year in which the organisation is formed; but the first AGM must
+    still be held within 15 months of the date on which the organisation is
+    formed.
+
+79. The business of each AGM must include:
+
+a. a report by the chair on the activities of the organisation; and
+
+b. consideration of the future strategy for the organisation, including a
+review of key risks and opportunities.
+
+80. The board may convene any other meeting of the charity trustees - in their
+    capacity as members of the organisation - at any time.
+
+## Notice of members' meetings
+
+81. At least 14 clear days' notice must be given of any AGM or any other
+    members' meeting.
+
+82. The notice calling a members' meeting must specify in general terms what
+    business is to be dealt with at the meeting; and
+
+a. in the case of any resolution falling within clause 90 (requirement for
+two-thirds majority) must set out the exact terms of the resolution; and
+
+b. in the case of a resolution to alter the constitution, must set out the
+exact terms of the proposed alteration(s).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
